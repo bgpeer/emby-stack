@@ -22,9 +22,7 @@
 ## 快速开始
 
 ```bash
-git clone https://github.com/bgpeer/emby-stack.git
-cd emby-stack
-sudo bash deploy.sh
+curl -fsSL https://raw.githubusercontent.com/bgpeer/emby-stack/main/deploy.sh -o deploy.sh && sudo bash deploy.sh
 ```
 
 跟着提示回答问题即可。装好后打开导航入口:
