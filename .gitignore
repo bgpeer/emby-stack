@@ -1,0 +1,11 @@
+# 运行时生成的敏感文件,别提交
+.env
+CREDENTIALS.txt
+
+# 各服务运行数据 / 配置(若安装目录就是仓库目录)
+*/config/
+caddy/Caddyfile
+caddy/data/
+caddy/config/
+media/
+docker-compose.yml
