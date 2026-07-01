@@ -22,8 +22,8 @@
 ## 快速开始
 
 ```bash
-git clone https://github.com/<你的用户名>/media-stack.git
-cd media-stack
+git clone https://github.com/bgpeer/emby-stack.git
+cd emby-stack
 sudo bash deploy.sh
 ```
 
